@@ -8,6 +8,10 @@ Righteous!
 
 Yes?
 
+``` javascript
+var myVar = "Hello, world!";
+```
+
 ### Third Header
 
 Alright.
