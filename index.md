@@ -16,6 +16,10 @@ var myVar = "Hello, world!";
 
 Alright.
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
 #### Fourth Header
 
 Cool!
