@@ -1,5 +1,7 @@
 # Main Header
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 Righteous!
 
 ## Second Header
